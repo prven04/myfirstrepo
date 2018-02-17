@@ -3,7 +3,9 @@ void add()
 pf("merge and rebase topic")
 }
 
-
+void sub()
+{
+}
 get()
 {
 }
