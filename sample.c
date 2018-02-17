@@ -1,3 +1,8 @@
+void github()
+{
+  pf("this code added in git hub remote repo. GUI")
+}
+
 void add()
 {
 pf("merge and rebase topic")
